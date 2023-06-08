@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yattahaus
 - 👀 I’m interested in game development.
-- 🌱 I’m currently learning unreal engine and blueprints.
-- 💞️ I’m looking to collaborate on my game kritterRally.com
+- 🌱 I’m currently building a game using unreal engine and blueprints.
+- 💞️ I’m looking to collaborate on my game www.yattaHaus.com
 - 📫 How to reach me email me at martin@yattahaus.com
 
 <!---
